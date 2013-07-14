@@ -68,7 +68,6 @@ public class MultiChoiceListActivity extends ListActivity {
 			if (mActionbarMultiSelectedView == null) {
 				inflateView();
 			}
-			inflateView();
 			MenuInflater inflater = mode.getMenuInflater();
 			inflater.inflate(R.menu.context_multichoice, menu);
 
