@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/context_action_item1" android:showAsAction="always" android:title="@string/context_menu_item1"></item>
+    <item android:id="@+id/context_action_item2" android:showAsAction="always" android:title="@string/context_menu_item2"></item>
+    
+
+</menu>

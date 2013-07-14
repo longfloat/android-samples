@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiChoiceMode</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="context_menu_item1">ContextMenu1</string>
+    <string name="context_menu_item2">ContextMenu2</string>
+    <string name="actionbar_multiselect_title">selected</string>
+    <string name="count">3</string>
+    <string name="label_multiselect">Multi</string>
+    <string name="btn_to_multiselect">MultiSelectModeListView</string>
+
+</resources>
